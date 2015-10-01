@@ -11,6 +11,6 @@
 	"branch": "master"
     },
     "plugins": {
-	"sysinfo": None
+	"sysinfo": {}
     }
 }
