@@ -1,0 +1,18 @@
+{
+    "data": {
+	"login": "simonvpe", 
+	"repo": "trj_data", 
+	"branch": "master", 
+	"file": "datastore_file"
+    }, 
+    "module": {
+	"login": "simonvpe", 
+	"repo": "trj_modules", 
+	"branch": "master"
+    },
+    "plugins": {
+	"helloworld": {
+	    "number": 12
+	}
+    }
+}
