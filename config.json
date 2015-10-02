@@ -11,6 +11,8 @@
 	"branch": "master"
     },
     "plugins": {
-	"sysinfo": {}
+	"sysinfo": {
+	    "schedule": "every(10).seconds"
+	}
     }
 }
