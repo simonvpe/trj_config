@@ -8,7 +8,7 @@
     "module": {
 	"login": "simonvpe", 
 	"repo": "trj_modules", 
-	"branch": "master"
+	"branch": "testbranch"
     },
     "plugins": {
 	"sysinfo": {
