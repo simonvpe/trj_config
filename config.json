@@ -12,7 +12,8 @@
     },
     "plugins": {
 	"sysinfo": {
-	    "schedule": "every(10).seconds"
+	    "schedule": "every(10).seconds",
+	    "other_arg": 12
 	}
     }
 }
